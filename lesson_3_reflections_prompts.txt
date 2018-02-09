@@ -22,7 +22,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    email eachother files? idfk
+	Well you wouldn't have to learn git or Github, so there's that
+	Buuuut managing each other's files would be a hassle tho
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
